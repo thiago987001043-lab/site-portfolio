@@ -496,13 +496,6 @@
             <p>📧 Direct Mail: <a href="mailto:thiago987001043@gmail.com">thiago987001043@gmail.com</a></p>
             <p>💻 Version Control: <a href="https://github.com/thiago987001043-lab" target="_blank">github.com/thiago987001043-lab</a></p>
             <br>
-            <a href="mailto:thiago987001043@gmail.com" class="btn-premium" style="display: inline-flex; align-items: center; gap: 10px; justify-content: center;">
-    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="transition: transform 0.3s ease;">
-        <rect width="20" height="16" x="2" y="4" rx="2"/>
-        <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/>
-    </svg>
-    Disparar E-mail
-</a>
         </section>
     </main>
 
